@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+## user created contents
+create_dataset.py
+test.py
+train.py
+.hand_gesture_dl
